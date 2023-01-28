@@ -1,0 +1,192 @@
+.container i{
+font-size: 100px;
+color:chocolate;
+float:left;
+margin:20px 20px;
+}
+
+.header-left{
+  float:left;
+  margin:20px 20px 10px 20px;
+
+  }
+
+  .header-center{
+  float:right;
+  margin:20px 20px 10px 20px;
+  }
+
+.header-right {
+  
+  color:rgb(28, 236, 9) ;
+  float:right;
+  background-color: white;
+  font-size:15px;
+  border:2px solid rgb(236, 9, 221);
+  border-radius: 10px;
+  height:60px;
+  line-height:60px;
+  margin:35px 30px 10px 0px;
+  padding-right: 30px;
+}
+.header-right i{
+  font-size: 20px;
+  color:rgb(246, 8, 175);
+  }
+
+
+  header{
+  height: 120px;
+  width:100%;
+  background-color:white;
+  margin:0 auto;
+  position: fixed;
+  top: 0px;
+  z-index: 10;
+  }
+
+
+  .top-wrapper i{
+    font-size: 300px;
+    color:chocolate;
+    float:left;
+    opacity: 0.3;
+    
+  }
+
+  .top-wrapper h1{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    line-height:50px;
+  }
+
+  .top-title{
+    position: relative;
+  }
+
+  .top-wrapper h2{
+    position: absolute;
+    top: 270px;
+    left: 260px;
+    line-height:20px;
+  }
+
+.top-wrapper{
+  height:450px;
+  margin-top: 180px;
+}
+
+.doctor-career img{
+  margin:35px 40px 0 20px;
+}
+
+.doctor-wrapper{
+height: 500px;
+background-color:;
+}
+
+.doctor-detail i{
+  font-size: 40px;
+  color:chocolate;
+  text-align:center;
+  margin-right:20px;
+  margin-top: 30px
+  }
+
+  .doctor-title{
+  display: flex;
+  justify-content:center;
+  margin-right:50px;
+  margin-top: 10px;
+  }
+
+  .doctor-top{
+  background-color: chocolate;
+  border:2px solid chocolate;
+  border-radius: 10px;
+  width:500px;
+  text-align:center;
+  margin: auto;
+  }
+
+  .doctor-career{
+    display: flex;
+    justify-content:center;
+    margin-right:40px;
+    margin-top: px;
+    line-height:35px;
+  }
+  
+
+  .specialties{
+  height: 900px;
+  position: relative;
+  background-color: ;
+  }
+
+  .specialities-background{
+    position: absolute;
+    font-size: 700px;
+    color:chocolate;
+    margin-top: 0px;
+    opacity: 0.3;
+    
+    left: 200px;
+  }
+
+  .specialties-title{
+    color:blue;
+    position: absolute;
+    top: 400px;
+    left: 250px;
+  }
+
+  .specialties-title i{
+  font-size: 50px;
+  }
+
+  .specialties-contents{
+    position: absolute;
+    top: 100px;
+    right: 200px;
+    width: 600px;
+  }
+
+  .specialties-contents i{
+  color: fuchsia;
+  font-size: 40px;
+  }
+
+  footer{
+    position: relative;
+    background-color: rgba(25, 187, 232, 0.137);
+    height: 360px;
+  }
+
+   .footer-info{
+  padding-top: 30px;
+  }
+
+  .footer-map{
+    position: absolute;
+    top: px;
+    left: 200px;
+  }
+
+
+  .footer-detail{
+  text-align: center;
+  position: absolute;
+    top: px;
+    right: 200px;
+    line-height:20px;
+  }
+
+  .footer-table{
+  font-size:15px;
+  }
+
+  .footer-table th{
+  background-color: rgb(174, 186, 239);
+  }
